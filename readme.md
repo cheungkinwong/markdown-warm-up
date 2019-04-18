@@ -8,7 +8,7 @@ https://www.pennyjuice.com/htmlversion/home.htm
 Last update was in February and before that there was a 6 month gap.
 
 ### How did you find it ?
-https://web.archive.org/
+We googled ugly websites and found this gem through a list of https://blog.rankingbyseo.com/bad-websites/
 
 ### Why does this website need an update / complete makeover ?
 Because the website is **outdated** and **not very pleasing to the eye.**
