@@ -1,5 +1,5 @@
 
-![BeCode Logo] (https://github.com/cheungkinwong/markdown-warm-up/blob/master/image/Becode.jpeg)
+![BeCode Logo](https://github.com/cheungkinwong/markdown-warm-up/blob/master/image/Becode.jpeg)
 
 ### What website did you find (url, name,...)
 https://www.pennyjuice.com/htmlversion/home.htm
