@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 <center>![BeCode Logo](https://github.com/cheungkinwong/markdown-warm-up/blob/master/image/Becode.jpeg)</center>
+=======
+![BeCode Logo] (https://github.com/cheungkinwong/markdown-warm-up/blob/master/image/Becode.jpeg)
+>>>>>>> parent of 7544867... fix on image
 
 ### What website did you find (url, name,...)
 https://www.pennyjuice.com/htmlversion/home.htm
